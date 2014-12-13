@@ -39,4 +39,4 @@ TO:
 
 
 
-////You can change the suffix ".loc" if it conflics with your code
+////You can change the suffix ".loc" if it conflicts with your code
