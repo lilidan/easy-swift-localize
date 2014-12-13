@@ -10,12 +10,13 @@ HOW TO USE:
 
 
 1.Drag in the "String+local.swift" in your project
+
 2.Add ".loc" after the stings you want to localize.
 
-BEFORE:
+FROM:
 
     text = "china"
-AFTER:
+TO:
 
     text = "china".loc
  
@@ -31,4 +32,6 @@ AFTER:
 
      "china" = "china";
 
-5. Copy to your Localizable.strings
+
+
+5.Copy to your Localizable.strings
