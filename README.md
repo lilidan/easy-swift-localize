@@ -1,8 +1,9 @@
 easy-swift-localize
 ===================
-I am a iOS new-bee
-And have not found an easily use library for swift localization.
-Try this code,it does help me.
+I'm a iOS new-bee.
+
+And I haven't found an easily use library for swift localization.
+If you are an iOS new-bee like me,and you want to localize your strings in Swift with out any comments,try this code,it did help me.
 
 
 
