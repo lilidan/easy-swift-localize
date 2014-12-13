@@ -23,3 +23,11 @@ AFTER:
   Open the command line tool,run the python file, like this
 
       python /Users/...your directory.../genstrings.py *.swift
+
+4.Then you will get 
+      /*
+     * ./ViewController.swift
+     */
+
+     "china" = "china";
+5. Copy to your Localizable.strings
