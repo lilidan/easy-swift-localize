@@ -20,7 +20,8 @@ TO:
 
     text = "china".loc
  
-3.Copy the genstrings.py in the directory of your project,the same path with *.swift
+3.Copy the genstrings.py in the directory of your project,the same path with *.swift.
+
   Open the command line tool,run the python file, like this
 
       python /Users/...your directory.../genstrings.py *.swift
@@ -35,3 +36,7 @@ TO:
 
 
 5.Copy to your Localizable.strings
+
+
+
+////You can change the suffix ".loc" if it conflics with your code
