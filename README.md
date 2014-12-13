@@ -30,4 +30,5 @@ AFTER:
      */
 
      "china" = "china";
+
 5. Copy to your Localizable.strings
