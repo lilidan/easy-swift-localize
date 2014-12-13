@@ -21,4 +21,5 @@ AFTER:
  
 3.Copy the genstrings.py in the directory of your project,the same path with *.swift
   Open the command line tool,run the python file, like this
-  python /Users/...your directory.../genstrings.py *.swift
+
+      python /Users/...your directory.../genstrings.py *.swift
