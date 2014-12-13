@@ -2,14 +2,8 @@
 #
 #   python localized.py > Localization.strings
 #
-# This script should be placed in the Xcode project folder. It will read all .m files 
-# and extract all NSLocalizedString and Localized codes.
+# This script should be placed in the Xcode project folder. It will read all .swift files 
 #
-# Differences between this and genstrings from Apple tool:
-# - Group the strings by the filename (instead of alphabetically)
-# - Scan for "Localized" code, which is a Macro for NSLocalizedString with recursive replacement and optional comment
-#
-# This script is heavily copied from: https://github.com/dunkelstern/Cocoa-Localisation-Helper
 
 import os, re, subprocess
 import fnmatch
